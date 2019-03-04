@@ -1,3 +1,7 @@
-code"12345"
-code"6789"
-"完成"
+#include <iostream>
+
+int main(void)
+{
+	return 0;
+	}
+	
